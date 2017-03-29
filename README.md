@@ -179,7 +179,14 @@ PageKit menyediakan fitur *maintenance* apabila admin web ingin melakukan perbai
 	![](http://rajamuda.cf/images/komdat/21.png)
 	
 	4. Mengganti Tema
+	* Unduh koleksi tema di halaman *Marketplace* dan pilih tab Tema
+	* Pilih salah satu tema, kemudian klik
+	* Setelah terunduh, klik tombol *Enable* untuk mengaktifkan tema
+	* Tema yang telah terunduh dapat dilihat di halaman *System* dan pilih tab *Theme*
+	
 	5. Menambahkan Widget
+	* 
+	
 	6. Manajemen *User*
 	7. Mengatur *Permission*
 
