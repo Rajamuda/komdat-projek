@@ -194,41 +194,42 @@ PageKit menyediakan fitur *maintenance* apabila admin web ingin melakukan perbai
 	* Tema yang telah terunduh dapat dilihat di halaman *System* dan pilih tab *Theme*
 	
 	![](http://rajamuda.cf/images/komdat/25.PNG)
+	![](http://rajamuda.cf/images/komdat/26.PNG)
 	
 	5. Menambahkan Widget
 	* Buka halaman *Site* melalui menu di *hamburger button*, kemudian pilih tab *Widgets*
 	
-	![](http://rajamuda.cf/images/komdat/26.PNG)
+	![](http://rajamuda.cf/images/komdat/27.PNG)
 	
 	* Klik tombol *Add Widgets*
 	
-	![](http://rajamuda.cf/images/komdat/27.PNG)
+	![](http://rajamuda.cf/images/komdat/28.PNG)
 	
 	* Pilih salah satu kategorinya, *Menu* untuk menambahkan *list* halaman, *Text* untuk menambahkan ukiran kata-kata, dan *Link* untuk menambahkan pranala ke halaman lain.
 	
-	![](http://rajamuda.cf/images/komdat/28.PNG)
+	![](http://rajamuda.cf/images/komdat/29.PNG)
 	
 	* Isikan *field* yang perlu isi, kemudian atur tata letaknya di menu *dropdown* sebelah kanan
 	
-	![](http://rajamuda.cf/images/komdat/29.PNG)
+	![](http://rajamuda.cf/images/komdat/30.PNG)
 	
 	* Setelah selesai, klik *Save*. Cek halaman awal apakah *widget* sudah berhasil ditambahkan.
 	
-	![](http://rajamuda.cf/images/komdat/30.PNG)
+	![](http://rajamuda.cf/images/komdat/31.PNG)
 	
 	6. Manajemen *User* dan Mengatur *Permission* berdasarkan *role*
 	* Buka halaman *Users* melalui menu di *hamburger button*
 	
-	![](http://rajamuda.cf/images/komdat/31.PNG)
+	![](http://rajamuda.cf/images/komdat/32.PNG)
 	
 	* Diberikan *list* *user* yang sudah terdaftar, apabila *role*-nya adalah *admin*, maka ia bisa menghapus/memblokir *user*
 	
-	![](http://rajamuda.cf/images/komdat/32.PNG)
+	![](http://rajamuda.cf/images/komdat/33.PNG)
 	
 	* Untuk mengatur *Permission* untuk *Role* tiap-tiap *user*, klik tab *Permission*.
 	* Di situ, kita bisa memberikan/melepas izin untuk tiap jenis aktivitas yang dapat dilakukan.
 	
-	![](http://rajamuda.cf/images/komdat/33.PNG)
+	![](http://rajamuda.cf/images/komdat/34.PNG)
 
 
 ## Pembahasan
