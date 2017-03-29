@@ -167,12 +167,15 @@ PageKit menyediakan fitur *maintenance* apabila admin web ingin melakukan perbai
 	
 	3. Buat *Page* Baru
 	* Untuk membuat *page*, dari halaman *dashboard admin*, klik *hamburger button* yang terletak di pojok kiri atas, kemudian pilih *Site*
+	
 	![](http://rajamuda.cf/images/komdat/19.png)
 	
 	* Setelah itu, klik tombol *Add Page*, kemudian pilih *Page*
+	
 	![](http://rajamuda.cf/images/komdat/20.png)
 	
 	* Isikan *page* yang ingin dibuat sesuai *field* yang tersedia, kemudian klik tombol *Save*
+	
 	![](http://rajamuda.cf/images/komdat/21.png)
 	
 	4. Mengganti Tema
