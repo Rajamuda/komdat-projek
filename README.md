@@ -6,7 +6,7 @@
 
 ## Sekilas Tentang 
 
-PageKit merupakan aplikasi web *content management system*. PageKit digunakan untuk membangun *web* dengan mudah. PageKit memiliki beberapa fitur, di antaranya, menyediakan pengaturan untuk membuat halaman baru (contoh: membuat halaman untuk *blog*, mengorganisasi *file*, dan personalisasi *web*.
+PageKit merupakan aplikasi web *content management system*. PageKit digunakan untuk membangun *web* dengan mudah. PageKit memiliki beberapa fitur, di antaranya, menyediakan pengaturan untuk membuat halaman baru (contoh: membuat halaman untuk *blog*, mengorganisasi *file*, dan personalisasi *web*).
 
 
 ## Instalasi
@@ -126,10 +126,59 @@ PageKit menyediakan fitur *maintenance* apabila admin web ingin melakukan perbai
 ![](http://rajamuda.cf/images/komdat/9.PNG)
 
 ## Cara Pemakaian
+1. Tampilan aplikasi web
+	1. Tampilan utama (*default*)
+	![](http://rajamuda.cf/images/komdat/6.PNG)
+	2. Tampilan halaman blog (*default*)
+	![](http://rajamuda.cf/images/komdat/11.PNG)
+	3. *Dashboard admin*
+	![](http://rajamuda.cf/images/komdat/10.png)
 
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
+2. Fungsi-fungsi utama
+	1. Register *User* Baru
+	* Fungsi ini digunakan apabila ada *guest* yang ingin menjadi penulis blog atau agar dapat menulis komentar di blog. Langkah pertama, lihat *widgets Login* yang terletak di *sidebar* kanan. Kemudian, klik tombol *Sign Up*
+	
+	![](http://rajamuda.cf/images/komdat/12.png)
+	
+	* Setelah itu, isikan semua *field* yang diberikan
+	
+	![](http://rajamuda.cf/images/komdat/13.png)
+	
+	* Setalahnya, klik tombol *Sign Up* dan akan muncul pemberitahuan bahwa *user* telah berhasil didaftarkan.
+	
+	![](http://rajamuda.cf/images/komdat/14.png)
+	
+	* Lakukan login, kemudian akses http://YourURL/admin/.
+	
+	![](http://rajamuda.cf/images/komdat/15.png)
+	
+	2. Buat Pos
+	* Untuk membuat *post*, di halaman *dashboard admin*, klik *hamburger button* yang terletak di pojok kiri atas, kemudian pilih *Blog*
+	
+	![](http://rajamuda.cf/images/komdat/16.png)
+	
+	* Setelah itu, klik tombol *Add Post*
+	
+	![](http://rajamuda.cf/images/komdat/17.png)
+	
+	* Isikan *post* yang ingin dibuat, setelah selesai klik tombol *Save*
+	
+	![](http://rajamuda.cf/images/komdat/18.png)
+	
+	3. Buat *Page* Baru
+	* Untuk membuat *page*, dari halaman *dashboard admin*, klik *hamburger button* yang terletak di pojok kiri atas, kemudian pilih *Site*
+	![](http://rajamuda.cf/images/komdat/19.png)
+	
+	* Setelah itu, klik tombol *Add Page*, kemudian pilih *Page*
+	![](http://rajamuda.cf/images/komdat/20.png)
+	
+	* Isikan *page* yang ingin dibuat sesuai *field* yang tersedia, kemudian klik tombol *Save*
+	![](http://rajamuda.cf/images/komdat/21.png)
+	
+	4. Mengganti Tema
+	5. Menambahkan Widget
+	6. Manajemen *User*
+	7. Mengatur *Permission*
 
 
 ## Pembahasan
