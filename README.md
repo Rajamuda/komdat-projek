@@ -185,10 +185,17 @@ PageKit menyediakan fitur *maintenance* apabila admin web ingin melakukan perbai
 	* Tema yang telah terunduh dapat dilihat di halaman *System* dan pilih tab *Theme*
 	
 	5. Menambahkan Widget
-	* 
+	* Buka halaman *Site* melalui menu di *hamburger button*, kemudian pilih tab *Widgets*
+	* Klik tombol *Add Widgets*
+	* Pilih salah satu kategorinya, *Menu* untuk menambahkan *list* halaman, *Text* untuk menambahkan ukiran kata-kata, dan *Link* untuk menambahkan pranala ke halaman lain.
+	* Isikan *field* yang perlu isi, kemudian atur tata letaknya di menu *dropdown* sebelah kanan
+	* Setelah selesai, klik *Save*
 	
-	6. Manajemen *User*
-	7. Mengatur *Permission*
+	6. Manajemen *User* dan Mengatur *Permission* berdasarkan *role*
+	* Buka halaman *Users* melalui menu di *hamburger button*
+	* Diberikan *list* *user* yang sudah terdaftar, apabila *role*-nya adalah *admin*, maka ia bisa menghapus/memblokir *user*
+	* Untuk mengatur *Permission* untuk *Role* tiap-tiap *user*, klik tab *Permission*.
+	* Di situ, kita bisa memberikan/melepas izin untuk tiap jenis aktivitas yang dapat dilakukan.
 
 
 ## Pembahasan
