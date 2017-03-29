@@ -5,12 +5,14 @@
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang 
-[^ kembali ke atas ^](#aplikasi-web-pagekit)
+[`^ kembali ke atas ^`](#aplikasi-web-pagekit)
+
 PageKit merupakan aplikasi web *content management system*. PageKit digunakan untuk membangun *web* dengan mudah. PageKit memiliki beberapa fitur, di antaranya, menyediakan pengaturan untuk membuat halaman baru (contoh: membuat halaman untuk *blog*, mengorganisasi *file*, dan personalisasi *web*).
 
 
 ## Instalasi
-[^ kembali ke atas ^](#aplikasi-web-pagekit)
+[`^ kembali ke atas ^`](#aplikasi-web-pagekit)
+
 #### Kebutuhan
 - Apache 2.2+ atau Nginx
 - MySQL Server 5.1+ atau SQLite 3
@@ -51,7 +53,8 @@ $ sudo mv ../pagekit/ /var/www/html/
 
 
 ## Konfigurasi
-[^ kembali ke atas ^](#aplikasi-web-pagekit)
+[`^ kembali ke atas ^`](#aplikasi-web-pagekit)
+
 Pastikan pada konfigurasi Apache, *module* ``mod_rewrite`` sudah dalam keadaan diaktifkan. Untuk melihat *module* mana yang sudah aktif, ketikkan perintah ``apache2ctl -M``.  Jika belum ada di *list*, ketikkan perintah ``sudo a2enmod rewrite`` pada terminal kemudian *restart* apache dengan mengetikkan perintah ``sudo service apache2 restart``. 
 
 Selanjutnya, cek juga file konfigurasi ``apache2.conf`` yang terletak di ``/etc/apache2/``. 
@@ -81,7 +84,8 @@ Kemudian simpan (ctrl+o) dan keluar (ctrl+x)
 
 
 ## Otomatisasi
-[^ kembali ke atas ^](#aplikasi-web-pagekit)
+[`^ kembali ke atas ^`](#aplikasi-web-pagekit)
+
 Secara *default* di dalam arsip instalasi PageKit, terdapat *executable file* ``pagekit`` yang digunakan untuk menjalankan beberapa perintah CLI, di antaranya:
 ```
 Usage:
@@ -116,7 +120,8 @@ Available commands:
 ```
 
 ## Maintenance
-[^ kembali ke atas ^](#aplikasi-web-pagekit)
+[`^ kembali ke atas ^`](#aplikasi-web-pagekit)
+
 PageKit menyediakan fitur *maintenance* apabila admin web ingin melakukan perbaikan pada situs. 
 1. Pada halaman *dashboard* admin (http://URL/admin/dashboard), klik tombol *hamburger* di pojok kiri atas, kemudian pilih ikon *Site*
 ![](http://rajamuda.cf/images/komdat/7.PNG)
@@ -128,7 +133,8 @@ PageKit menyediakan fitur *maintenance* apabila admin web ingin melakukan perbai
 ![](http://rajamuda.cf/images/komdat/9.PNG)
 
 ## Cara Pemakaian
-[^ kembali ke atas ^](#aplikasi-web-pagekit)
+[`^ kembali ke atas ^`](#aplikasi-web-pagekit)
+
 1. Tampilan aplikasi web
 	1. Tampilan utama (*default*)
 	![](http://rajamuda.cf/images/komdat/6.PNG)
@@ -236,7 +242,8 @@ PageKit menyediakan fitur *maintenance* apabila admin web ingin melakukan perbai
 
 
 ## Pembahasan
-[^ kembali ke atas ^](#aplikasi-web-pagekit)
+[`^ kembali ke atas ^`](#aplikasi-web-pagekit)
+
 Aplikasi web PageKit merupakan CMS yang bisa dikatakan baru, namun memiliki beberapa fitur yang diunggulkan, di antaranya:
 1. Dibangun menggunakan *framework* PHP Symfony dan Vue.js
 2. Tampilan yang modern dan *responsive*, namun tetap terlihat sederhana
@@ -250,7 +257,8 @@ Namun, dari keunggulan yang diberikan, masih terdapat beberapa kekurangan, di an
 2. Walaupun terbilang mudah, tidak seperti wordpress yang memiliki *live preview*, untuk mengatur tata letak *widget* yang akan ditampilkan di situs masih menggunakan menu *dropdown*.
 
 ## Referensi
-[^ kembali ke atas ^](#aplikasi-web-pagekit)
+[`^ kembali ke atas ^`](#aplikasi-web-pagekit)
+
 1. [About | PageKit](https://pagekit.com/about) - PageKit
 2. [How To Rewrite URLs with mod_rewrite for Apache on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-rewrite-urls-with-mod_rewrite-for-apache-on-ubuntu-16-04) - DigitalOcean
 3. [Installation | PageKit](https://pagekit.com/docs/getting-started/installation) - PageKit
