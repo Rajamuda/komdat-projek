@@ -145,100 +145,100 @@ PageKit menyediakan fitur *maintenance* apabila admin web ingin melakukan perbai
 
 2. Fungsi-fungsi utama
 	1. Register *User* Baru
-	* Fungsi ini digunakan apabila ada *guest* yang ingin menjadi penulis blog atau agar dapat menulis komentar di blog. Langkah pertama, lihat *widgets Login* yang terletak di *sidebar* kanan. Kemudian, klik tombol *Sign Up*
+		* Fungsi ini digunakan apabila ada *guest* yang ingin menjadi penulis blog atau agar dapat menulis komentar di blog. Langkah pertama, lihat *widgets Login* yang terletak di *sidebar* kanan. Kemudian, klik tombol *Sign Up*
 	
-	![](http://rajamuda.cf/images/komdat/12.png)
+		![](http://rajamuda.cf/images/komdat/12.png)
 	
-	* Setelah itu, isikan semua *field* yang diberikan
+		* Setelah itu, isikan semua *field* yang diberikan
 	
-	![](http://rajamuda.cf/images/komdat/13.png)
+		![](http://rajamuda.cf/images/komdat/13.png)
 	
-	* Setalahnya, klik tombol *Sign Up* dan akan muncul pemberitahuan bahwa *user* telah berhasil didaftarkan.
+		* Setalahnya, klik tombol *Sign Up* dan akan muncul pemberitahuan bahwa *user* telah berhasil didaftarkan.
 	
-	![](http://rajamuda.cf/images/komdat/14.png)
+		![](http://rajamuda.cf/images/komdat/14.png)
 	
-	* Lakukan login, kemudian akses http://YourURL/admin/.
+		* Lakukan login, kemudian akses http://YourURL/admin/.
 	
-	![](http://rajamuda.cf/images/komdat/15.png)
+		![](http://rajamuda.cf/images/komdat/15.png)
 	
 	2. Buat Pos
-	* Untuk membuat *post*, di halaman *dashboard admin*, klik *hamburger button* yang terletak di pojok kiri atas, kemudian pilih *Blog*
+		* Untuk membuat *post*, di halaman *dashboard admin*, klik *hamburger button* yang terletak di pojok kiri atas, kemudian pilih *Blog*
 	
-	![](http://rajamuda.cf/images/komdat/16.png)
-	
-	* Setelah itu, klik tombol *Add Post*
-	
-	![](http://rajamuda.cf/images/komdat/17.png)
-	
-	* Isikan *post* yang ingin dibuat, setelah selesai klik tombol *Save*
-	
-	![](http://rajamuda.cf/images/komdat/18.png)
+		![](http://rajamuda.cf/images/komdat/16.png)
+
+		* Setelah itu, klik tombol *Add Post*
+
+		![](http://rajamuda.cf/images/komdat/17.png)
+
+		* Isikan *post* yang ingin dibuat, setelah selesai klik tombol *Save*
+
+		![](http://rajamuda.cf/images/komdat/18.png)
 	
 	3. Buat *Page* Baru
-	* Untuk membuat *page*, dari halaman *dashboard admin*, klik *hamburger button* yang terletak di pojok kiri atas, kemudian pilih *Site*
-	
-	![](http://rajamuda.cf/images/komdat/19.png)
-	
-	* Setelah itu, klik tombol *Add Page*, kemudian pilih *Page*
-	
-	![](http://rajamuda.cf/images/komdat/20.png)
-	
-	* Isikan *page* yang ingin dibuat sesuai *field* yang tersedia, kemudian klik tombol *Save*
-	
-	![](http://rajamuda.cf/images/komdat/21.png)
+		* Untuk membuat *page*, dari halaman *dashboard admin*, klik *hamburger button* yang terletak di pojok kiri atas, kemudian pilih *Site*
+
+		![](http://rajamuda.cf/images/komdat/19.png)
+
+		* Setelah itu, klik tombol *Add Page*, kemudian pilih *Page*
+
+		![](http://rajamuda.cf/images/komdat/20.png)
+
+		* Isikan *page* yang ingin dibuat sesuai *field* yang tersedia, kemudian klik tombol *Save*
+
+		![](http://rajamuda.cf/images/komdat/21.png)
 	
 	4. Mengganti Tema
-	* Unduh koleksi tema di halaman *Marketplace* dan pilih tab Tema
-	
-	![](http://rajamuda.cf/images/komdat/22.PNG)
-	
-	* Pilih salah satu tema, kemudian klik
-	
-	![](http://rajamuda.cf/images/komdat/23.PNG)
-	
-	* Setelah terunduh, klik tombol *Enable* untuk mengaktifkan tema
-	
-	![](http://rajamuda.cf/images/komdat/24.PNG)
-	
-	* Tema yang telah terunduh dapat dilihat di halaman *System* dan pilih tab *Theme*
-	
-	![](http://rajamuda.cf/images/komdat/25.PNG)
-	![](http://rajamuda.cf/images/komdat/26.PNG)
+		* Unduh koleksi tema di halaman *Marketplace* dan pilih tab Tema
+
+		![](http://rajamuda.cf/images/komdat/22.PNG)
+
+		* Pilih salah satu tema, kemudian klik
+
+		![](http://rajamuda.cf/images/komdat/23.PNG)
+
+		* Setelah terunduh, klik tombol *Enable* untuk mengaktifkan tema
+
+		![](http://rajamuda.cf/images/komdat/24.PNG)
+
+		* Tema yang telah terunduh dapat dilihat di halaman *System* dan pilih tab *Theme*
+
+		![](http://rajamuda.cf/images/komdat/25.PNG)
+		![](http://rajamuda.cf/images/komdat/26.PNG)
 	
 	5. Menambahkan Widget
-	* Buka halaman *Site* melalui menu di *hamburger button*, kemudian pilih tab *Widgets*
+		* Buka halaman *Site* melalui menu di *hamburger button*, kemudian pilih tab *Widgets*
 	
-	![](http://rajamuda.cf/images/komdat/27.PNG)
-	
-	* Klik tombol *Add Widgets*
-	
-	![](http://rajamuda.cf/images/komdat/28.PNG)
-	
-	* Pilih salah satu kategorinya, *Menu* untuk menambahkan *list* halaman, *Text* untuk menambahkan ukiran kata-kata, dan *Link* untuk menambahkan pranala ke halaman lain.
-	
-	![](http://rajamuda.cf/images/komdat/29.PNG)
-	
-	* Isikan *field* yang perlu isi, kemudian atur tata letaknya di menu *dropdown* sebelah kanan
-	
-	![](http://rajamuda.cf/images/komdat/30.PNG)
-	
-	* Setelah selesai, klik *Save*. Cek halaman awal apakah *widget* sudah berhasil ditambahkan.
-	
-	![](http://rajamuda.cf/images/komdat/31.PNG)
+		![](http://rajamuda.cf/images/komdat/27.PNG)
+
+		* Klik tombol *Add Widgets*
+
+		![](http://rajamuda.cf/images/komdat/28.PNG)
+
+		* Pilih salah satu kategorinya, *Menu* untuk menambahkan *list* halaman, *Text* untuk menambahkan ukiran kata-kata, dan *Link* untuk menambahkan pranala ke halaman lain.
+
+		![](http://rajamuda.cf/images/komdat/29.PNG)
+
+		* Isikan *field* yang perlu isi, kemudian atur tata letaknya di menu *dropdown* sebelah kanan
+
+		![](http://rajamuda.cf/images/komdat/30.PNG)
+
+		* Setelah selesai, klik *Save*. Cek halaman awal apakah *widget* sudah berhasil ditambahkan.
+
+		![](http://rajamuda.cf/images/komdat/31.PNG)
 	
 	6. Manajemen *User* dan Mengatur *Permission* berdasarkan *role*
-	* Buka halaman *Users* melalui menu di *hamburger button*
+		* Buka halaman *Users* melalui menu di *hamburger button*
 	
-	![](http://rajamuda.cf/images/komdat/32.PNG)
-	
-	* Diberikan *list* *user* yang sudah terdaftar, apabila *role*-nya adalah *admin*, maka ia bisa menghapus/memblokir *user*
-	
-	![](http://rajamuda.cf/images/komdat/33.PNG)
-	
-	* Untuk mengatur *Permission* untuk *Role* tiap-tiap *user*, klik tab *Permission*.
-	* Di situ, kita bisa memberikan/melepas izin untuk tiap jenis aktivitas yang dapat dilakukan.
-	
-	![](http://rajamuda.cf/images/komdat/34.PNG)
+		![](http://rajamuda.cf/images/komdat/32.PNG)
+
+		* Diberikan *list* *user* yang sudah terdaftar, apabila *role*-nya adalah *admin*, maka ia bisa menghapus/memblokir *user*
+
+		![](http://rajamuda.cf/images/komdat/33.PNG)
+
+		* Untuk mengatur *Permission* untuk *Role* tiap-tiap *user*, klik tab *Permission*.
+		* Di situ, kita bisa memberikan/melepas izin untuk tiap jenis aktivitas yang dapat dilakukan.
+
+		![](http://rajamuda.cf/images/komdat/34.PNG)
 
 
 ## Pembahasan
