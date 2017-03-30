@@ -251,10 +251,23 @@ Aplikasi web PageKit merupakan CMS yang bisa dikatakan baru, namun memiliki bebe
 4. Terdapat editor teks berupa Markdown dan HTML
 5. Terdapat *file manager* untuk mengatur *file* apa saja yang diunggah ke server
 6. Personalisasi dan pengaturan halaman situs yang tidak rumit
+7. Pengaturan kontrol *cache*
 
 Namun, dari keunggulan yang diberikan, masih terdapat beberapa kekurangan, di antaranya:
-1. Variasi tema dan ekstensi (*plugin*) yang diberikan masih terbilang sedikit
+1. Variasi tema dan ekstensi (*plugin*) yang diberikan masih terbilang sedikit, selain itu hanya bisa menggunakan tema yang disediakan, tidak dapat dikustomisasi atau dibuat sendiri.
 2. Walaupun terbilang mudah, tidak seperti wordpress yang memiliki *live preview*, untuk mengatur tata letak *widget* yang akan ditampilkan di situs masih menggunakan menu *dropdown*.
+
+### Perbandingan dengan aplikasi web 'Subrion'
+Sama halnya dengan PageKit, Subrion merupakan CMS yang digunakan untuk mempermudah pengguna membangun situs web. Dengan berbagai macam fitur yang ditawarkan, terdapat beberapa kesamaan, di antaranya:
+1. Subrion dapat digunakan untuk membuat situs blog
+2. Memiliki *user management* lengkap dengan *permission* sesuai *role*-nya
+3. Kustomisasi halaman (membuat baru, menghapus, mengubah status (aktif/inaktif/draft))
+4. Terdapat *storage management* untuk mengatur *file-file* yang terunggah ke server
+
+Namun ada beberapa hal yang perlu diperhatikan sebagai ciri pembeda.
+1. Halaman *admin* PageKit memiliki tampilan sederhana (tidak banyak *content* yang ditampilkan dalam suatu halaman, sedangkan Subrion terkesan menampilkan banyak *content*
+2. Terdapat fitur unik di Subrion, yaitu adanya fitur *SQL Tools*, tanpa perlu membuka *phpMyAdmin* kita dapat melihat isi *database*-nya
+3. Subrion juga dilengkapi dengan fitur keamanan di antaranya HTTPS, anti-CSRF, Build-in Captcha), sedangkan PageKit hanya pengaturan HTTPS saja yang ada
 
 ## Referensi
 [`^ kembali ke atas ^`](#aplikasi-web-pagekit)
