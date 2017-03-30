@@ -7,7 +7,7 @@
 ## Sekilas Tentang 
 [`^ kembali ke atas ^`](#aplikasi-web-pagekit)
 
-PageKit merupakan aplikasi web *content management system*. PageKit digunakan untuk membangun *web* dengan mudah. PageKit memiliki beberapa fitur, di antaranya, menyediakan pengaturan untuk membuat halaman baru (contoh: membuat halaman untuk *blog*, mengorganisasi *file*, dan personalisasi *web*).
+PageKit merupakan aplikasi web *content management system*. PageKit digunakan untuk mempermudah pengguna dalam membangun situs web. PageKit memiliki beberapa fitur, di antaranya, menyediakan pengaturan untuk membuat halaman baru (contoh: membuat halaman untuk *blog*, mengorganisasi *file*, dan personalisasi *web*).
 
 
 ## Instalasi
